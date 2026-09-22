@@ -1,0 +1,9 @@
+{
+  "route_code": "SFO-SIN",
+  "aircraft_code": "789L",
+  "departure_date": "2026-07-15",
+  "booking_window_days": 365,
+  "time_step_days": 1,
+  "random_seed": 7,
+  "add_noise": true
+}

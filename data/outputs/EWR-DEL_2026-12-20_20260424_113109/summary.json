@@ -1,0 +1,37 @@
+{
+  "total_revenue": 725226.4366374362,
+  "revenue_by_cabin": {
+    "J": 412118.9915819873,
+    "W": 54843.66643103113,
+    "Y": 258263.77862441802
+  },
+  "load_factor": {
+    "J": 0.7,
+    "W": 0.8333333333333334,
+    "Y": 0.6992481203007519,
+    "overall": 0.7085714285714285
+  },
+  "avg_fare_by_cabin": {
+    "J": 9812.35694242827,
+    "W": 2742.1833215515567,
+    "Y": 1388.5149388409563
+  },
+  "no_shows_by_cabin": {
+    "J": 2,
+    "W": 0,
+    "Y": 26
+  },
+  "denied_boarding_by_cabin": {
+    "J": 0,
+    "W": 0,
+    "Y": 0
+  },
+  "bookings_total": 276,
+  "bookings_by_cabin": {
+    "J": 44,
+    "W": 20,
+    "Y": 212
+  },
+  "group_bookings_total": 86,
+  "award_bookings_total": 11
+}

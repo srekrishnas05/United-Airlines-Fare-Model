@@ -1,0 +1,9 @@
+{
+  "route_code": "EWR-CDG",
+  "aircraft_code": "772",
+  "departure_date": "2026-08-10",
+  "booking_window_days": 365,
+  "time_step_days": 1,
+  "random_seed": 11,
+  "add_noise": false
+}

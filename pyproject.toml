@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ua_rm"
+version = "2.0.0"
+description = "United Airlines pricing engine V2 — RM simulation"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=1.24",
+    "matplotlib>=3.7",
+    "pandas>=2.0",
+]
+
+[project.scripts]
+ua_rm = "ua_rm.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["ua_rm*"]

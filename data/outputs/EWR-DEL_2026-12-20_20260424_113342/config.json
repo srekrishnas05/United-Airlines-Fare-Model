@@ -1,0 +1,9 @@
+{
+  "route_code": "EWR-DEL",
+  "aircraft_code": "77W",
+  "departure_date": "2026-12-20",
+  "booking_window_days": 365,
+  "time_step_days": 1,
+  "random_seed": 42,
+  "add_noise": true
+}
